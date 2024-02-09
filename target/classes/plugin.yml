@@ -1,0 +1,11 @@
+name: MCextremo
+version: '1.2.6'
+main: p.mcextremo.MCextremo
+author: Spinnin34
+softdepend: [PlaceholderAPI]
+website: karmancos.42web.io
+commands:
+  vidas:
+    description: "Ver las vidas"
+  pvp:
+    description: "Modo PvP  "
